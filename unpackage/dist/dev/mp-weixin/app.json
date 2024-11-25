@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user/user",
+    "pages/detail/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "DEMO",
+    "navigationBarBackgroundColor": "#31C27C",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666",
+    "selectedColor": "#31C27C",
+    "iconfontSrc": "static/fonts/iconfont.ttf",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconfont": {
+          "text": "",
+          "selectedText": "",
+          "selectedColor": "rgb(49, 198, 189)"
+        }
+      },
+      {
+        "text": "个人",
+        "pagePath": "pages/user/user",
+        "iconfont": {
+          "text": "",
+          "selectedText": "",
+          "selectedColor": "rgb(49, 198, 189)"
+        }
+      }
+    ]
+  },
+  "usingComponents": {}
+}

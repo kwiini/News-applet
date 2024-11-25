@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+view {
+	box-sizing: border-box;
+}
+page {
+	background-color: #faf4f0;
+}
+
